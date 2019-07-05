@@ -7,7 +7,6 @@
 #include <opencv2/opencv.hpp>
 #include <opencv2/imgproc/types_c.h> // for CV_BGR2GRAY constant
 #include<vector>
-#include <unistd.h>
 #include <string>
 
 using namespace cv;
